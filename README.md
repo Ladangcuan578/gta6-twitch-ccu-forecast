@@ -1,6 +1,10 @@
 # GTA VI launch-day Twitch viewers — hour-by-hour forecast
 
-Entry for the make.fun bounty `gta6-twitch-ccu-forecast-01`: forecast, for
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Ladangcuan578/gta6-twitch-ccu-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/Ladangcuan578/gta6-twitch-ccu-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Entry for the [make.fun bounty `gta6-twitch-ccu-forecast-01`](https://make.fun/bounty/gta6-twitch-ccu-forecast-01): forecast, for
 each of hours 2–24 (UTC) of GTA VI's release day (2026-11-19), five
 quantiles of the Twitch concurrent viewers in the "Grand Theft Auto VI"
 category, from everything recorded up to the end of hour 1.
@@ -65,3 +69,7 @@ rules:
 
 House baseline starter on the same cases: 0.387. Runtime ~0.05 s per
 case; repeated runs are byte-identical.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
